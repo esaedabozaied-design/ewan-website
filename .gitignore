@@ -1,0 +1,13 @@
+# Draft & original unoptimized assets
+assets/_originals/
+assets/*-v1.jpg
+hero/_review/
+_candidates.jpg
+_candidates_map.txt
+Ewan_Image_Prompts_*.md
+Ewan_finishes_template.xlsx
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.log

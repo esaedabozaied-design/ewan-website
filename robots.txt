@@ -1,0 +1,11 @@
+# robots.txt — إيوان للمطابخ والخزائن (https://ewanwood.com)
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+Disallow: /404.html
+Disallow: /hero/_review/
+Disallow: /assets/_originals/
+Disallow: /_candidates.jpg
+Disallow: /_candidates_map.txt
+
+Sitemap: https://ewanwood.com/sitemap.xml

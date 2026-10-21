@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ewanwood.com/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ewanwood.com/assets/og-image.jpg</image:loc>
+      <image:title>إيوان للمطابخ والخزائن — من الداخل يبان الفرق</image:title>
+      <image:caption>مطابخ وخزائن وغرف نوم وديكورات CNC بتصنيع آلي وهيكل PVC ضد الماء في جميع مناطق المملكة</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ewanwood.com/assets/web/ai-p1-pvc-cutaway.jpg</image:loc>
+      <image:title>هيكل PVC Foam Board خلف واجهة الجوز</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ewanwood.com/services.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ewanwood.com/assets/web/ai-k1-u-island-walnut.jpg</image:loc>
+      <image:title>تفصيل المطابخ بهيكل PVC في إيوان</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ewanwood.com/assets/web/ai-d1-walkin-island.jpg</image:loc>
+      <image:title>الخزائن وغرف الملابس والدريسنج</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ewanwood.com/gallery.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://ewanwood.com/assets/web/ai-k2-open-dining-ivory.jpg</image:loc>
+      <image:title>معرض أعمال وتصاميم مصنع إيوان للمطابخ والخزائن</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ewanwood.com/booking.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ewanwood.com/about.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://ewanwood.com/assets/factory-saw.jpg</image:loc>
+      <image:title>خطوط الإنتاج والتصنيع الآلي في مصنع إيوان</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ewanwood.com/contact.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

@@ -1,0 +1,60 @@
+/* ==========================================================================
+   الخطوط العربية المعمارية المحلية — تحسين سرعة التحميل (Core Web Vitals: Zero External Blocking)
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Cairo Regular'), local('Cairo-Regular'), url('font-1.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Cairo SemiBold'), local('Cairo-SemiBold'), url('font-2.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Cairo Bold'), local('Cairo-Bold'), url('font-3.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('Cairo ExtraBold'), local('Cairo-ExtraBold'), url('font-3.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('IBM Plex Sans Arabic'), local('IBMPlexSansArabic-Regular'), url('font-4.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('IBM Plex Sans Arabic Medium'), local('IBMPlexSansArabic-Medium'), url('font-5.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('IBM Plex Sans Arabic SemiBold'), local('IBMPlexSansArabic-SemiBold'), url('font-6.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('IBM Plex Sans Arabic Bold'), local('IBMPlexSansArabic-Bold'), url('font-6.ttf') format('truetype');
+}
